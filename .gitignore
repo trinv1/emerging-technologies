@@ -556,4 +556,15 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+
 # End of https://www.toptal.com/developers/gitignore/api/latex,macos,windows,python,linux
