@@ -14,7 +14,7 @@ The notebook is structured as a sequence of problems and explanations. It includ
 - classical testing to determine function type
 - construction of one-bit quantum oracles for Deutsch’s algorithm
 - implementation of Deutsch’s algorithm in Qiskit
-- extension to the Deutsch–Jozsa algorithm for four-bit Boolean functions
+- extension to the Deutsch-Jozsa algorithm for four-bit Boolean functions
 - construction of quantum oracles from classical functions
 - explanation of key concepts such as:
   - superposition
@@ -42,11 +42,17 @@ The notebook combines short theory sections, commented Python code, and simulate
 
 Clone the repository:
 
-**Clone notebook:** git clone https://github.com/trinv1/emerging-technologies
+```bash
 
-**Install dependenices:** pip install -r requirements.txt
+Clone notebook: git clone https://github.com/trinv1/emerging-technologies
 
-**Start up notebook:** jupyter notebook problems.ipynb
+Navigate to project: cd emerging-technologies
+
+Install dependencies: pip install -r requirements.txt
+
+Start the notebook: jupyter notebook problems.ipynb
+
+```
 
 ## References
 
