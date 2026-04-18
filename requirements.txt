@@ -3,14 +3,5 @@ ipykernel
 jupyterlab
 notebook
 numpy
-pandas
-scipy
-statsmodels
-yfinance
-matplotlib
-seaborn
 qiskit[visualization]
 qiskit-aer
-scikit-learn
-sympy
-pytest
