@@ -1,4 +1,4 @@
-# Emerging Technologies Assignment
+# Emerging Technologies 
 
 This repository contains a Jupyter Notebook project for module **Emerging Technologies** assignment implemented in **Python**. The main notebook is:
 
